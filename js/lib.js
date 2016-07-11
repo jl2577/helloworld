@@ -6,4 +6,3 @@ console.log(hello);
     window.a=a;
 })(window);
 
-console.log("aaa")
