@@ -5,3 +5,5 @@ console.log(hello);
     var a={a:"a"};
     window.a=a;
 })(window);
+
+console.log("aaa")
