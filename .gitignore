@@ -1,2 +1,2 @@
-*.ignore  #忽略以.ignore结尾的文件，不加入版本管理
+*.ignore  #忽略以.ignore结尾的文件，不加入版本
 .gitignore
